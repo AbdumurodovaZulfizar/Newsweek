@@ -34,10 +34,9 @@ The website is fully responsive with the help of three media query breakpoints. 
 ## Getting Started
 First things to do on the way of cloning this <a href="https://web.archive.org/web/20210120125445/https://www.newsweek.com/">page</a> are these steps.
 
-• git clone https://github.com/IbrohimRasulov/Newsweek.git <br>
+• git clone https://github.com/AbdumurodovaZulfizar/Newsweek <br>
 • cd Newsweek <br>
-• git checkout -b newsweek <br>
-• git pull origin newsweek <br>
+• git pull <br>
 • If you have vscode live-server installed, run it and open localhost:3000
 
 ## Authors
