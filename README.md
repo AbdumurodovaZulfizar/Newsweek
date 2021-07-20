@@ -29,7 +29,7 @@ The website is fully responsive with the help of three media query breakpoints. 
 
 ## Live Demo
 
-[Live Demo Link](https://ibrohimrasulov.github.io/Newsweek/)
+[Live Demo Link](https://abdumurodovazulfizar.github.io/Newsweek/)
 
 ## Getting Started
 First things to do on the way of cloning this <a href="https://web.archive.org/web/20210120125445/https://www.newsweek.com/">page</a> are these steps.
