@@ -3,8 +3,12 @@
 
 # Newsweek clone
 
-> In this project, we will replicate the archived version of the website Newsweek with bootstrap. This page is a clone of the <a href="https://web.archive.org/web/20210120125445/https://www.newsweek.com/">Newsweek Page</a>.
-You can compare this web page with a real one via a demo link. The website is fully responsive with the help of three media query breakpoints. This project has been built with help of modern <button>CSS</button> and <button>Bootstrap</button>.
+
+> In this project, we will replicate the archived version of the website Newsweek with bootstrap.
+This page is clone of <a href="https://web.archive.org/web/20210120125445/https://www.newsweek.com/">Newsweek Page</a>.
+You can compere this web page with real one via demo link.
+The website is fully responsive with the help of three media query breakpoints. This project has been built with help of modern <button>CSS</button> and <button>Bootstrap</button>.
+
 
 
 ![screenshot](./newsweek-images/screenshot-1.png)
@@ -28,7 +32,12 @@ You can compare this web page with a real one via a demo link. The website is fu
 [Live Demo Link](https://ibrohimrasulov.github.io/Newsweek/)
 
 ## Getting Started
-First thing to do on the way of cloning this <a href="https://web.archive.org/web/20210120125445/https://www.newsweek.com/">page</a> is getting the library of all pictures an icons. Than start to add all web page elements to html file. Second step is sorting elements into semantic and non-semantic tags. Than you can start to style them. But make sure you use bootstrap for everything if possible. Don't forget to complete fixed navbar and footer first.
+First things to do on the way of cloning this <a href="https://web.archive.org/web/20210120125445/https://www.newsweek.com/">page</a> are these steps.
+
+• git clone https://github.com/AbdumurodovaZulfizar/Newsweek <br>
+• cd Newsweek <br>
+• git pull <br>
+• If you have vscode live-server installed, run it and open localhost:3000
 
 ## Authors
 
@@ -64,4 +73,6 @@ Give a ⭐️ if you like this project!
  
 Copyright 2021 Ibrohim Rasulov & Zulfizar Abdumurodova.
 
+
 - [Apache License](https://github.com/AbdumurodovaZulfizar/Newsweek/blob/main/LICENSE.md) for this project.
+
